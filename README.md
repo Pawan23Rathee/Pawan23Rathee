@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pawan23Rathee
 - 👀 I’m interested in doing new projects like add something new which make website great.
 - 🌱 I’m currently learning Full stack web development(MERN)
-- 📫 linkedin  to reach me https://www.linkedin.com/in/pawan-rathee-b34200323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 linkedin  to reach me www.linkedin.com/in/pawan-rathee-webdev
 -  📖 Current skills I have in my learning period: HTML,CSS & BOOTSTRAP.
 -   📊 I have done lots of projects you can see it in my profile.
 
